@@ -4,7 +4,7 @@ function About() {
   return (
     <section
       id="about"
-      className="m-6 p-8 flex flex-col md:flex-row items-center justify-center bg-gray-100 rounded-3xl shadow-lg"
+      className=" m-6 p-8 flex flex-col md:flex-row items-center justify-center bg-gray-100 rounded-3xl shadow-2xl"
     >
       {/* Profile Image */}
       <img
